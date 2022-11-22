@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="plan">
+        <item>Finishing UML</item>
+        <item>Creating Unittest</item>
+        <item>Recap UI/UX Meeting</item>
+        <item>Go trough PR</item>
+    </string-array>
+</resources>

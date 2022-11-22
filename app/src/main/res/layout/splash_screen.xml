@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/MiddleTextView"
+        android:id="@+id/middleTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
@@ -43,6 +43,6 @@
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/MiddleTextView" />
+        app:layout_constraintTop_toBottomOf="@id/middleTextView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
